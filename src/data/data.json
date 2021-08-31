@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Glass Planets",
+    "paragraph": "Gifts are showering down across the universe. What will land on your planet?"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "NAME is a universe where mysterious meteors are known to travel through the universe, crashing into a planet and with it the treasures it holds. A stake to a NAME planet means being able to join in on the mysterious gifts that seem to be crashing down. Once a week, a meteor crashes onto a NAME planet. The owner of said planet takes the spoils. What's in the meteors? Some say its its merch, some say its NFTs, and there is a rumour that sometimes even Ether has been found.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -20,34 +20,34 @@
   },
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-check",
+      "name": "100 Planets Claimed",
+      "text": "A mysterious meteor carrying treasure crash lands on a planet. The first giveaway for the early explorers of the new frontier."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-check",
+      "name": "10% Planets Claimed",
+      "text": "An extra planet has been claimed but the explorer then fell into a black hole. The first NAME NFT giveaway commences."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-check",
+      "name": "25% Planets Claimed",
+      "text": "Another mysterious meteor, even bigger than before is seen hurling through he galaxy. What planet will it land on this time?"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-check",
+      "name": "50% Planets Claimed",
+      "text": "NAME merch design and production begins (Big things to come)."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-check",
+      "name": "75% Planets Claimed",
+      "text": "Holy smokes, almost all the planets in the universe have been explored and claimed. Now there are rumers that a large crack has appeared in the galaxy. "
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-check",
+      "name": "100% Planets Claimed",
+      "text": "A big crack in the universe has shot out an obscenely large meteor. No meteor this big has been seen before, now all one can wonder is, \"How much treasure is inside?"
     }
   ],
   "Testimonials": [
@@ -115,23 +115,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Step 1",
+      "text": "Lay a stake to (mint) a newly discovered planet in the NAME galaxy"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Step 2",
+      "text": "Participate in universe wide events to stake more planets"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Step 3",
+      "text": "Simply hold your planet and wait for the mysterious commets to appear."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Step 4",
+      "text": "If the commet crashes onto your planet, you keep the prize!"
     }
   ]
 }
